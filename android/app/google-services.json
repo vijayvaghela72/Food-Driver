@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "139649351749",
+    "firebase_url": "https://naminikima-default-rtdb.firebaseio.com",
+    "project_id": "naminikima",
+    "storage_bucket": "naminikima.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139649351749:android:c5da5aa315e284f65c632c",
+        "android_client_info": {
+          "package_name": "com.naminikima.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139649351749-p387bva6aep91271udq889topha2ih4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhJpmJ9TgAMM3qUL6RamfQOaO5TWYFSds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139649351749-p387bva6aep91271udq889topha2ih4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139649351749:android:3b69316ef3b0a5fc5c632c",
+        "android_client_info": {
+          "package_name": "com.naminikima.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139649351749-p387bva6aep91271udq889topha2ih4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhJpmJ9TgAMM3qUL6RamfQOaO5TWYFSds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139649351749-p387bva6aep91271udq889topha2ih4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139649351749:android:b4ac968cacb10b6a5c632c",
+        "android_client_info": {
+          "package_name": "com.naminikima.restorent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139649351749-p387bva6aep91271udq889topha2ih4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhJpmJ9TgAMM3qUL6RamfQOaO5TWYFSds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139649351749-p387bva6aep91271udq889topha2ih4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
