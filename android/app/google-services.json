@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "139649351749-7g7nneap8c4bcoajek1tqnrvet2do436.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.naminikima.customer",
+            "certificate_hash": "1e9018927a5d43b6a79d0d01af00c352cb9116b7"
+          }
+        },
+        {
           "client_id": "139649351749-p387bva6aep91271udq889topha2ih4d.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -44,6 +52,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "139649351749-t66bo6khv3irmlfq63f1lfl5kb4t1qjc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.naminikima.driver",
+            "certificate_hash": "1e9018927a5d43b6a79d0d01af00c352cb9116b7"
+          }
+        },
+        {
           "client_id": "139649351749-p387bva6aep91271udq889topha2ih4d.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -72,6 +88,14 @@
         }
       },
       "oauth_client": [
+        {
+          "client_id": "139649351749-hr9q1k39kgg61legt4qd7sp7se3h8ei2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.naminikima.restorent",
+            "certificate_hash": "1e9018927a5d43b6a79d0d01af00c352cb9116b7"
+          }
+        },
         {
           "client_id": "139649351749-p387bva6aep91271udq889topha2ih4d.apps.googleusercontent.com",
           "client_type": 3
